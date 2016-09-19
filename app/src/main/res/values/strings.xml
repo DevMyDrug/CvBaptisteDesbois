@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Cv Baptiste Desbois</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About me</string>
+    <string name="skills">My skills</string>
+    <string name="edu">Educations</string>
+    <string name="profExp">Professional experience</string>
+    <string name="projects"> Projects </string>
+    <string name="student"> IT student</string>
+    <string name="contact">contact</string>
+    <string-array name="Titles">
+        <item>@string/about</item>
+        <item>@string/skills</item>
+        <item>@string/edu</item>
+        <item>@string/profExp</item>
+        <item>@string/projects</item>
+        <item>@string/contact</item>
+    </string-array>
+
+    <array name="icones">
+        <item>@drawable/about</item>
+        <item>@drawable/skills</item>
+        <item>@drawable/education</item>
+        <item>@drawable/pro</item>
+        <item>@drawable/projects</item>
+        <item>@drawable/contact</item>
+    </array>
+    <string name="title_activity_about_me">About me</string>
+    <string name="title_activity_skills">Skills</string>
+    
+    <string name="name">"Name : Baptiste"</string>
+    <string name="surname">"Surname : Desbois"</string>
+    <string name="gender">Civility: Mr.</string>
+    <string name="age">Age: 20</string>
+
+    <string name="about1">Undergraduates from the IT University Institute of Technology in Dijon, I want to improve my knowledge and specialize myself in mobile programming. For doing that, I apply for the Internet and Mobile degree in the University Institute of Technology in Bourg-en-Bresse (Lyon 1) which take place alternatively in school and in the company. </string>
+    <string name="about2">Today, I search a company who want to recruit an apprentice in the specific contract (apprentice contract or professionalization contract) for a period of one year and next possibly continue on a CDI or CDD.</string>
+    <string name="hobby">Hobbies :</string>
+    <string name="about3">Sport: individual or collective, I like practice volleyball, basketball and football, ping-pong, badminton or climbing. </string>
+    <string name="title_activity_scolarity">Scolarity</string>
+
+    <string name="Univesity">University of Burgundy</string>
+    <string name="lycee">Lycée La Prat\'s</string>
+    <string name="college">Collège Pierre Paul Prud\'hon</string>
+    <string-array name="ScolarityTitles">
+        <item>@string/Univesity</item>
+        <item>@string/lycee</item>
+        <item>@string/college</item>
+    </string-array>
+    <string-array name="City">
+        <item>Dijon</item>
+        <item>Cluny</item>
+        <item>Cluny</item>
+    </string-array>
+
+    <string-array name="DateSco">
+        <item>2014-2016</item>
+        <item>2011-2014</item>
+        <item>2009-2011</item>
+    </string-array>
+
+    <string name="Bac">A-level</string>
+    <string name="dut">IT DUT</string>
+    <string-array name="DescSco">
+        <item>@string/dut</item>
+        <item>@string/Bac</item>
+        <item> Brevet des collège- Mention AB</item>
+        <item> - </item>
+    </string-array>
+    <string name="title_activity_experiences">Experiences</string>
+
+    <string-array name="TitleExp">
+        <item>BU-CROCCS</item>
+        <item>Palmid\'or</item>
+        <item>Vendange</item>
+        <item>Massilly France</item>
+
+    </string-array>
+    <string name="dateExp1"> April-June 2016 </string>
+    <string name="dateExp2">July-August 2014</string>
+    <string name="dateExp4">August-September 2016</string>
+
+    <string-array name="DateExp">
+        <item>@string/dateExp1</item>
+        <item>@string/dateExp2</item>
+        <item>@string/dateExp3</item>
+        <item>@string/dateExp4</item>
+    </string-array>
+    <string-array name="CityExp">
+        <item>Bangkok, Thailande</item>
+        <item>Trambly</item>
+        <item>Varange</item>
+        <item>Massilly</item>
+    </string-array>
+    <string name="internshipDesc">Next to the tutored project, the BU-CROCCS staff offered us the opportunity to do an internship in their laboratory in Bangkok, Thailand. My internship project was the development of an application which allows the user to control a multispectral system and acquire images from it. A demonstration application was made on Matlab before I come and I have to translate this application in C++ with the Qt framework and make different user-friendly GUI.</string>
+    <string name="palmidDesc">Handler position, teamwork with assembly line production work, respect imposed constraints and accelerate the production if necessary. </string>
+    <string name="vendangeDesc">A vintager post, teamwork for harvesting grapes by hand as fast as possible without losing the product quality</string>
+
+    <string-array name="DescExp">
+        <item>@string/internshipDesc</item>
+        <item>@string/palmidDesc</item>
+        <item>@string/vendangeDesc</item>
+        <item>@string/massillyDesc</item>
+    </string-array>
+    <string name="title_activity_projects">Projects</string>
+
+    <string-array name="TitleProject">
+        <item>CIG’ARRÊTE</item>
+        <item>Digikup</item>
+    </string-array>
+    <string name="datePro1">6 of February 2016 - 4 April 2016</string>
+    <string name="datePro2">18 of September 2015 - 22 January 2016</string>
+
+=    <string-array name="DatePro">
+        <item>@string/datePro1</item>
+        <item>@string/datePro2</item>
+    </string-array>
+    <string name="cigDesc">Cig’arrête is an android application still in development. This application allows the user to monitor his cigarette consumption, check some advice, depending on his dependence, to reduce his cigarette consumption, check how much he economized and what he can buy thanks that (athletics, hardware and edible rewards). The user can also create his own goals and how much money he has to economize. The source codes are available in my GitHub. </string>
+    <string name="digiDesc">Digikup is a make-up simulation. This desktop application allows to create a mask on eyebrows, lips and cheeks and apply to them some make-up on the picture, set the opacity of the make-up, etc. This application was developed with 5 other IT students and this project was offered by the BU-CROCCS labs, placed at Bangkok, in Thailand.</string>
+    <string-array name="DescProjet">
+        <item>@string/cigDesc</item>
+        <item>@string/digiDesc</item>
+    </string-array>
+    <string name="title_activity_contact">Contact</string>
+
+    <string name="eng">English</string>
+    <string name="fr">French</string>
+    <string name="pl">Polish</string>
+    <string name="autonomous">Autonomous</string>
+    <string name="team">teamworks</string>
+    <string name="organization">Organization</string>
+    <string name="deter">Determination</string>
+    <string name="com">Communication</string>
+    <string name="dateExp3">September 2014</string>
+    <string name="massillyDesc"> Manufacturing Officer position , night work , check the product quality, training on the main problem of the machines and their resolution</string>
+
+</resources>
